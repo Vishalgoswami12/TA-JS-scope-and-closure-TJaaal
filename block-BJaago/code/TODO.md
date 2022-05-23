@@ -26,7 +26,7 @@ var userMessage = sayHelloToUser('Bran');
 
 <!-- Put your image below -->
 
-![](./img/image-name.jpg)
+![](./image/WhatsApp%20Image%202022-05-23%20at%204.27.22%20PM.jpeg)
 
 2.
 
@@ -43,7 +43,7 @@ sayHi();
 
 <!-- Put your image below -->
 
-![](./img/image-name.jpg)
+![](./image/img2.jpeg)
 
 3.
 
@@ -60,13 +60,15 @@ sayHi();
 
 <!-- Put your image below -->
 
-![](./img/image-name.jpg)
+![](./image/img3.jpeg)
 
 4.
 
 ```js
-console.log(arr); // output
+console.log(arr); // output 
+undefined
 console.log(username); // output
+undefined
 var usename = 'Sam';
 var arr = [1, 2, 3, 4, 5, 6];
 

@@ -64,4 +64,7 @@ console.log(counter1.value()); // OUTPUT 2
 counter1.decrement();
 console.log(counter1.value()); // OUTPUT 1
 console.log(counter2.value()); // OUTPUT 0
+
+
+1
 ```

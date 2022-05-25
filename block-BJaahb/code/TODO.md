@@ -9,8 +9,8 @@ function outer() {
   }
   return inner;
 }
-let getSum = outer();
-let num = getSum();
+let getSum = outer();//30
+let num = getSum();//30
 ```
 
 2.
@@ -28,10 +28,10 @@ function getCounter() {
 
 let counter = getCounter();
 
-counter(); // output
-counter(); // output
-counter(); // output
-counter(); // output
+counter(); // output 0
+counter(); // output 1
+counter(); // output 2
+counter(); // output 3
 ```
 
 3. Create the execution context diagram
@@ -50,4 +50,4 @@ blue();
 tomato();
 
 // What will be the background color after the execution of last line
-```
+```tomato
